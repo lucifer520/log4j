@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="log4j"
+  id="myeclipse.1420101352325"
+  context-root="/log4j"
+  j2ee-spec="6.0"
+  archive="log4j.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
